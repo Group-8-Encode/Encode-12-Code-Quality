@@ -43,6 +43,7 @@ https://ethereum-contract-security-techniques-and-tips.readthedocs.io/en/latest/
 
 https://ethernaut.openzeppelin.com/
 # Homework
+* Create Github Issues with your questions about this lesson
 * Read the references
 * (Optional) Complete the security challenges from Ethernaut
 * (Optional) Play and finish [Capture the Ether](https://capturetheether.com/challenges/)
